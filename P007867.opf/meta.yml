@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3JT13623
   title: ལེགས་བཤད་གསེར་གྱི་ཐུར་མ།
-  volume: ''
+  volume:
+    5915382d0d1c49378a38a58bae3e0372:
+      image_group_id: I3JT13629
+      title: Volume 1 of legs bshad gser gyi thur ma/
+      volume_number: 1
+      total_pages: 26
   author: ''
+ebook_metadata:
+  title: ལེགས་བཤད་གསེར་གྱི་ཐུར་མ།
+  author: ''
+  sku: P007867
+  cover: cover.jpg
+  layers:
+  - pagination
